@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: "Text (Catal\xE0)"
   m_EditorClassIdentifier: 
   traductionLanguage: "CATAL\xC0"
-  traductionText: 
+  traductionText: "EM DIC ADRI\xC0 AUG\xC9 GIRIBET"
+  buttonText1: "CATAL\xC0"
+  buttonText2: "ANGL\xC8S"
+  buttonText3: "CASTELL\xC0"

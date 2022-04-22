@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: Text (English)
   m_EditorClassIdentifier: 
   traductionLanguage: ENGLISH
-  traductionText: 
+  traductionText: "I'M ADRI\xC0 AUG\xC9 GIRIBET"
+  buttonText1: CATALAN
+  buttonText2: ENGLISH
+  buttonText3: SPANISH
